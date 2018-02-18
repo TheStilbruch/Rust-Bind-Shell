@@ -22,11 +22,7 @@ fn main() {
     let mut address = String::new();
 
     match args.len() {
-        1 => {
-            eprintln!("Error: Not enough not args!");
-            return;
-        }
-        2 => {
+        1 | 2 => {
             eprintln!("Error: Not enough not args!");
             return;
         }
