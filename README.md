@@ -9,4 +9,4 @@ cargo build --release && strip target/release/rust-bind-shell
 ```
 
 # Usage
- ./rust-bind-shell *PORT* *ADDRESS*
+ ./rust-bind-shell **PORT** **ADDRESS**
