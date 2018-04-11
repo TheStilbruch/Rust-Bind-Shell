@@ -1,4 +1,4 @@
-# Rust-Bind-Shell
+# bind-shell.rs
 A multi-threaded bind shell for UNIX systems writen in Rust
 
 # Building
